@@ -46,4 +46,4 @@ To clone and run this project on your local machine:
 1. Install **Android Studio**.  
 2. Clone this repository:  
    ```bash  
-   https://github.com/thirusudar03092003/PRODIGY_AD_TICTACTOE.git 
+   https://github.com/thirusudar03092003/PRODIGY_AD_02.git
